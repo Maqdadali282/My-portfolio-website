@@ -128,7 +128,7 @@ export default function Hero() {
           </motion.a>
 
           <motion.a
-            href="/Maqdad_Ali_CV.pdf"
+            href="/Maqdad_Ali_CV.v.pdf"
             download
             className="font-body font-medium px-7 py-3.5 rounded-full text-white text-sm border border-white/15 bg-white/5 hover:bg-white/10 hover:border-white/25 transition-all duration-300 tracking-wide"
             whileHover={{ scale: 1.05 }}
